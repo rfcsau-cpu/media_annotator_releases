@@ -10,7 +10,7 @@ This repository provides precompiled Windows releases of Media Annotator. It con
 
 Visit the Releases page to download the latest version.
 
-<ins>Latest version: v1.1.0-beta.1</ins>
+[Latest Windows version: v1.1.0-beta.1](https://github.com/rfcsau-cpu/media_annotator_releases/releases/tag/windows-beta-1.1)
 
 ### Windows Installation
 Download the latest Media Annotator-Windows-x64.zip file from Releases.
